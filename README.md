@@ -35,7 +35,7 @@ A la saisie la ville doit s'afficher comme à l'écran.
 
 Le code fournit devra être plus lisible en gérant la partie asynchrone à l'aide d'async/await.
 
-![/assets/demo.png](/assets/demo.png)
+![demo.png](demo.png)
 
 Liens utiles:
 
